@@ -2,13 +2,12 @@
 
 Este programa administra las citas de los pacientes veterinarios. Consta de un formulario en el que se agregan los datos y luego se guarda y muestra la respectiva cita.
 
-Este programa fue creado con React.
-
 ## Preview
 Puede usar el programa ingresando en el siguiente link:
 https://allgrego-patient-admin.netlify.app/
 
-=====================================================================================================
+Other information
+------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
